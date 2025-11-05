@@ -1,12 +1,13 @@
-<h2 align="left">Hi, I'm Nader👋 </h2>
+<h2 align="left">Hi, I'm Nader👋🏻 </h2>
 
 ###
 
 <h3 align="left">An enthusiastic and engaged graduate of AI</h3>
 Welcome to my profile! Feel free to check out my repositories and get in touch
-
+<!-- <img align="right" height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kN3d3Y29pMXQzZ2QwNTdiYWNpMDFwN2ptd3I5aDM4bW55bzVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  /> -->
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Kidzantso&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+</div>
 
 ### 
 
@@ -53,7 +54,7 @@ Welcome to my profile! Feel free to check out my repositories and get in touch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
   <img width="12" />
     </div>
-<img align="right" height="200" src="https://tse4.mm.bing.net/th/id/OIP.x6x6o_DwjKj1AnxmOKZttwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"  />
+<img align="right" height="280" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNmZmxxOWc3d3M5bGR0a21uZGxndDdicXJoY2VxcWpyZnkxNnBuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 - **AI**
 <div align="left">
