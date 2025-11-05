@@ -10,8 +10,6 @@ Welcome to my profile! Feel free to check out my repositories and get in touch
 
 ### 
 
-<img align="right" height="200" src="https://tse4.mm.bing.net/th/id/OIP.x6x6o_DwjKj1AnxmOKZttwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"  />
-
 ## Languages
 - **Web & Backend**
 <div align="left">
@@ -55,6 +53,7 @@ Welcome to my profile! Feel free to check out my repositories and get in touch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
   <img width="12" />
     </div>
+<img align="right" height="200" src="https://tse4.mm.bing.net/th/id/OIP.x6x6o_DwjKj1AnxmOKZttwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"  />
 
 - **AI**
 <div align="left">
