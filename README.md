@@ -1,6 +1,6 @@
 <h1 align="left">Hi There, I'm Nader 👋</h1>
 
-<h3 align="left">An enthusiastic and engaged student of AI</h3>
+<h3 align="left">An enthusiastic and engaged graduate of AI</h3>
 
 <h5 align="left">Welcome to my profile! Feel free to check out my repositories and get in touch</h5>
 
