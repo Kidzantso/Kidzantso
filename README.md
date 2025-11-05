@@ -6,7 +6,7 @@
 Welcome to my profile! Feel free to check out my repositories and get in touch
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidzantso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Kidzantso&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 
 ### 
 
