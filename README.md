@@ -4,12 +4,17 @@
 
 <h3 align="left">An enthusiastic and engaged graduate of AI</h3>
 Welcome to my profile! Feel free to check out my repositories and get in touch
-<!-- <img align="right" height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kN3d3Y29pMXQzZ2QwNTdiYWNpMDFwN2ptd3I5aDM4bW55bzVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  /> -->
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kidzantso&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+<img height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kN3d3Y29pMXQzZ2QwNTdiYWNpMDFwN2ptd3I5aDM4bW55bzVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 </div>
 
-### 
+###
+
+<!--  <div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Kidzantso&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e"/>
+</div>
+-->
+ 
 
 ## Languages
 - **Web & Backend**
