@@ -121,4 +121,10 @@ Welcome to my profile! Feel free to check out my repositories and get in touch
   <a href="https://www.linkedin.com/in/nader-maged-375ba7275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+ <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=Youtube&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Youtube logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=Tiktok&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Tiktok logo"  />
+  </a>
 </div>
