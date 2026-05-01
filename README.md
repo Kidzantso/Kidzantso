@@ -1,10 +1,12 @@
-<h2 align="left">Hi, I'm Nader👋🏻 </h2>
+<h1 align="left">Hi, I'm Nader👋🏻 </h1>
 
 ###
 
-<h3 align="left">An enthusiastic and engaged graduate of AI</h3>
-Welcome to my profile! Feel free to check out my repositories and get in touch
-You can also reach me and know more trough my <a href="https://nader-maged.netlify.app">Portfolio</a>, <a href="https://www.linkedin.com/in/nader-maged-375ba7275/">LinkedIn</a> and you can reach me through my <a href="mailto:dodo.maged2004@gmail.com">Email</a>
+<h2 align="left">An enthusiastic and engaged AI Engineer </h2>
+Welcome to my profile! Feel free to check out my repositories and get in touch.
+
+
+You can also reach me and know more through my <a href="https://nader-maged.netlify.app">Portfolio</a>, <a href="https://www.linkedin.com/in/nader-maged-375ba7275/">LinkedIn</a> and you can reach me through my <a href="mailto:dodo.maged2004@gmail.com">Email</a>
 <div align="left">
 <!-- <img height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kN3d3Y29pMXQzZ2QwNTdiYWNpMDFwN2ptd3I5aDM4bW55bzVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  /> -->
 </div>
