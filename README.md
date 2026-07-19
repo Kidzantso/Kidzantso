@@ -6,17 +6,9 @@
 Welcome to my profile! Feel free to check out my repositories and get in touch.
 
 
-You can also reach me and know more through my <a href="https://nader-maged.netlify.app">Portfolio</a>, <a href="https://www.linkedin.com/in/nader-maged-375ba7275/">LinkedIn</a> and you can reach me through my <a href="mailto:dodo.maged2004@gmail.com">Email</a>
-<div align="left">
-<!-- <img height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kN3d3Y29pMXQzZ2QwNTdiYWNpMDFwN2ptd3I5aDM4bW55bzVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  /> -->
-</div>
+You can also reach me and know more through my <a href="https://nader-maged.netlify.app">Portfolio</a>, <a href="https://www.linkedin.com/in/nader-maged-375ba7275/">LinkedIn</a> and you can reach me through my <a href="mailto:nader.maged634@gmail.com">Email</a>
 
 ###
-
-<!--  <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kidzantso&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e"/>
-</div>
--->
  
 
 ## Languages
@@ -118,7 +110,7 @@ You can also reach me and know more through my <a href="https://nader-maged.netl
 ## Contact Me
 
 <div align="left">
-  <a href="mailto:dodo.maged2004@gmail.com" target="_blank">
+  <a href="mailto:nader.maged634@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nader-maged-375ba7275/" target="_blank">
